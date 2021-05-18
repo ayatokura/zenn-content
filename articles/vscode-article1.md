@@ -1,5 +1,5 @@
 ---
-title: "# Hello Visual Studio Code for Dreamers"
+title: "Hello Visual Studio Code for Dreamers"
 emoji: "👩‍💻"
 type: "tech"
 topic: ["vscode", "エディタ"]

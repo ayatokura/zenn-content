@@ -1,8 +1,8 @@
 ---
 title: "VS Code拡張機能「Japanese Language Pack for Visual Studio Code」の紹介"
 emoji: "👩‍💻"
-type: "tech", vscode"
-topic: ["VS Code"]
+type: "tech"
+topic: ["vscode", "エディタ"]
 published: true
 ---
 

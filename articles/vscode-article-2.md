@@ -30,7 +30,7 @@ GitHub: https://github.com/Microsoft/vscode-loc
 2. [表示言語を構成する(Configure Display Language)]を実行する
 ![](https://bl6pap004files.storage.live.com/y4mYdmpjGnqThVHQhok16ZNnd7_pHiyY_EXu3NubMqLbUQvwNIi4DgmKy46T121qGTxljIXeBq5JuV-hwZkDGLtqH2d9intAiyWKDN-FjJ3G4ECRmkaTiywHcosykoTxMfWg3fQ0bdDqMdOgq7dCK1g5aYI1owsNM0d2IAez2L9HEbUBApAVByJs5Exxvsm56sy?width=1450&height=202&cropmode=none)
 3. [ja]になっていることを確認する
-<img src="https://bl6pap004files.storage.live.com/y4mFBFvnddwPd8cj2HKERV1l6gl00AxlJ0eNQoRaAnZl1IloTsVjke1u6VCvYIBak18SrOKpVnjqlQUebkO2k1kZVB9zVfIVYxMz2CXRwr9wFHP1_EYBmYJeD7XLYF-MQYyHHPSSGYzRUUdvB760uBxA8_ZrGL0uW73IHUvtxgMQ5n-L4Mhc6gn_OD3RdV1PDFH?width=1444&height=266&cropmode=none" width="600">
+![image](https://drive.google.com/file/d/1ey42C1aFRBSKwUDXps_kbybl_S1LLiiX/view?usp=sharing)
 
 今回は以上です 🙌
 

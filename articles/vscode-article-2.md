@@ -6,8 +6,7 @@ topic: ["vscode", "エディタ"]
 published: true
 ---
 
-拡張機能名: Japanese Language Pack for Visual Studio Code
-概要: VS Codeを日本語UIで利用することができる拡張機能  
+VS Codeをインストールした直後に、日本語メニューで利用したい場合にインストールする必要のある言語パックの拡張機能です。他にも様々な言語に対応していますが、ここでは日本語の言語パックについて紹介しておきます。  
 
 ```
 拡張機能ID: ms-ceintl.vscode-language-pack-ja  

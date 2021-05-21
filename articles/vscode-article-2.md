@@ -8,6 +8,7 @@ published: true
 
 VS Codeをインストールした直後に、日本語メニューで利用したい場合にインストールする必要のある言語パックの拡張機能です。他にも様々な言語に対応していますが、ここでは日本語の言語パックについて紹介しておきます。  
 
+![](https://storage.googleapis.com/zenn-user-upload/d9natp5caogd99hioa866p1zeeki)  
 ```
 拡張機能ID: ms-ceintl.vscode-language-pack-ja  
 開発元: Microsoft  
@@ -15,7 +16,6 @@ VS Codeをインストールした直後に、日本語メニューで利用し�
 GitHub: https://github.com/Microsoft/vscode-loc  
 ```
 💡最新情報については、[「VS Code Marketplace - Japanese Language Pack for Visual Studio Code」](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ja) サイトをご確認ください。
-![](https://storage.googleapis.com/zenn-user-upload/d9natp5caogd99hioa866p1zeeki) 
 
 ### 💻 インストール方法
 1. VS Codeの拡張機能アイコンから本拡張機能を検索する

@@ -14,6 +14,7 @@ VS Codeをインストールした直後に、日本語メニューで利用し�
 ダウンロード数: 2,409,469 (2021/5/21現在)  
 GitHub: https://github.com/Microsoft/vscode-loc  
 ```
+📢 より詳細な情報や最新情報については、[VS Code Marketplace - Japanese Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ja) サイトをご確認ください。
 
 ![](https://bl6pap004files.storage.live.com/y4mnfnaon8xlHEJvTP4kGTRb6YY31SkbJhSqSMoN81zae8bPIXagD0jqBBZlxyoqEFZFoVaHqusgdlLMMT39W4sCEWn_X6ujs9IHAhUELcJil2EuMmJx96owKt5aVNZyzPkDAhRYeG30OxuDzCK9xhw9vb-GVWYw7yH7vc21Z1FAFy1lZLX8-AneX8SvrS51xwH?width=575&height=163&cropmode=none)  
 

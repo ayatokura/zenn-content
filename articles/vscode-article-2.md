@@ -2,9 +2,11 @@
 title: "VS Code拡張機能「Japanese Language Pack for Visual Studio Code」の紹介"
 emoji: "👩‍💻"
 type: "tech"
-topics: ["vscode"]
+topics: ["vscode", "エディタ"]
 published: true
 ---
+
+こんにちは。職業「戸倉彩」です。
 
 VS Codeをインストールした直後に、日本語メニューで利用したい場合にインストールする必要のある言語パックの拡張機能です。他にも様々な言語に対応していますが、ここでは日本語の言語パックについて紹介しておきます。  
 

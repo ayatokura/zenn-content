@@ -2,7 +2,7 @@
 title: "Hello Visual Studio Code for Dreamers"
 emoji: "👩‍💻"
 type: "tech"
-topic: ["vscode", "エディタ"]
+topics: ["vscode", "エディタ"]
 published: true
 ---
 

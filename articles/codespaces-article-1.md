@@ -2,7 +2,7 @@
 title: "GitHub Codespaceの管理および削除する方法"
 emoji: "👩‍💻"
 type: "tech"
-topic: ["vscode", "GitHub", "Codespaces"]
+topics: ["vscode", "GitHub", "Codespaces"]
 published: true
 ---
 

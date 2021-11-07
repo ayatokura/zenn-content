@@ -14,7 +14,7 @@ VS Codeでプログラミングをしている際に、ブラケットペアを�
 VS Codeバージョン1.62の変更点の一つとして、ブラケットペアをガイドする機能が改良されました。
 > 参考情報: [VS Code 1.62 リリースノート (October 2021)](https://code.visualstudio.com/updates/v1_62)  
 Editor - Improved bracket pair guides  
-<img src="https://code.visualstudio.com/assets/updates/1_62/bracket-pair-guides.gif" width="400">
+![](https://code.visualstudio.com/assets/updates/1_62/bracket-pair-guides.gif)
 
 ## 設定方法
 1. VS Codeを起動する

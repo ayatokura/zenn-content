@@ -8,6 +8,10 @@ published: true
 
 こんにちは。職業「戸倉彩」です。
 
+この記事は **「Visual Studio Code Advent Calendar 2021」** の24日目の記事です。
+
+https://qiita.com/advent-calendar/2021/vscode
+
 VS Codeから離れず快適にTwitterにリアルタイムでツイート投稿する方法を見つけましたので、ご紹介いたします。
 
 ## Twittter, together

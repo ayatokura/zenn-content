@@ -16,7 +16,7 @@ published: true
 ## GitHub Codespaceの管理画面
 1. GitHubにログインする
 2. GitHub右上の自分のアイコンをクリックし **[Your codespaces]** メニューを選択する、もしくは [Codespace管理ページ](https://github.com/codespaces) へアクセスする
-![](/images/2022-01-23-20-32-33.png)   
+![](2022-01-23-20-33-52.png)  
 3. ご自身のCodespaceを作成したリポジトリやブランチ名が表示される
 ![](/images/2021-08-29-17-58-47.png)
 

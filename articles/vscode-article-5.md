@@ -30,14 +30,14 @@ Unicode highlighting
 * **Editor > Unicode Highlight: Include Comments**    
 コメントないの文字をUnicode強調表示の体表にするかどうかを制御します。  
   * inUntrustedWorkspace (規定)
-  * ture (制御したい場合)
+  * true (制御したい場合)
   * false (制御したくない場合)
 * **Editor > Unicode Highlight: Invisible Characters**  
 スペースを予約するだけの文字または幅がまったくない文字を強調表示するかどうかを制御します。デフォルトでオンになっているので、表示したくない場合にはチェックボックスでチェックを外す。
 * **Editor > Unicode Highlight: Non Basic ASCII**    
 基本以外のすべてのASCII文字を強調表示するかどうかを制御します。U+0020からU+007Eの間の文字、Tab、改行コード、行頭復帰のみが基本ASCIIと見なされます。  
   * inUntrustedWorkspace (規定)
-  * ture (制御したい場合)
+  * true (制御したい場合)
   * false (制御したくない場合)
 ![](/images/2021-12-12-01.png)   
 
